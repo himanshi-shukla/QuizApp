@@ -7,7 +7,7 @@ export default class QuizappLWC extends LightningElement {
     ourQuestions = [
         {
             id: "question1",
-            question: " Which of the following is not a template loop ?",
+            question: " Which of the following is not a template loop ??",
             answers: {
                 a: "for:each",
                 b: "iterator",
